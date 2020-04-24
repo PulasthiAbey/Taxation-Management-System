@@ -1,0 +1,32 @@
+Home Page 
+  -Basic Details are about the company
+  -Register Button
+  -Sign up button
+  
+Register
+  -Name
+  -NIC
+  -password
+  -re enter password
+  -Address
+  -email address
+  -TP No
+  -Area of the job
+  -Submit button should be there
+  -Register button also should be there
+  
+Signin
+  -NIC (as username)
+  -password
+  -sign in button
+  
+ Subscription
+  -NIC
+  -Password
+  -Button saying pay
+  
+ Connect to the consultant
+  -Customer Name
+  -E mail
+  -Message 
+  -Send
