@@ -1,0 +1,53 @@
+body
+{
+	background-image: url(register.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.a
+{
+	text-align: center;
+	margin: 100px 80px;
+	border-radius: 20px;
+}
+
+h2
+{
+	margin: 0 0 30px;
+	padding: 0;
+	color:white;
+	text-align: center;
+	font-size:32px;
+}
+#registration
+{
+	width: 80%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 8px;
+        margin-left:85px;
+        border-radius:10px;
+        
+}
+
+.button
+{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#but1 ,#but2
+				{
+					background: transparent;
+					border: none;
+					outline: none;
+					color: #fff;
+					background: #03a9f4;
+					padding: 10px 20px;
+					cursor: pointer;
+					border-radius: 5px;
+					margin-left: 2%;
+					font-size: 15px;
+				}
