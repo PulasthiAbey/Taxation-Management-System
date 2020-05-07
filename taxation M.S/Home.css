@@ -1,10 +1,9 @@
-/*body
+body
 {
 	background-image: url(home.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
+    background-size: cover;
 }
-*/
 /* The Overlay (background) */
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */   
@@ -61,3 +60,10 @@
       right: 35px;
     }
   }
+
+.header{
+    text-align: center;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
