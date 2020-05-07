@@ -1,6 +1,6 @@
 body
 {
-	background-image: url(home.jpg);
+	background-color: black;
 	background-repeat: no-repeat;
     background-size: cover;
 }
@@ -64,6 +64,26 @@ body
 .header{
     text-align: center;
     font-size: 60px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria;
     font-weight: bolder;
+    color: white;
+    font-style: inherit;
+}
+.go{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: burlywood;
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.go:hover {
+    background: #eee;
+    color: dodgerblue;
+    font-size: larger;
 }
