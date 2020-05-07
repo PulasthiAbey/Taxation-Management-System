@@ -1,10 +1,10 @@
-body
+/*body
 {
 	background-image: url(home.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
+*/
 /* The Overlay (background) */
 .overlay {
     /* Height & width depends on how you want to reveal the overlay (see JS below) */   
