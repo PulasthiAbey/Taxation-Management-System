@@ -21,22 +21,22 @@
         <input type="text" name="nic" class="button" id="NIC" placeholder="Enter Your NIC number" required="">
 		<br><br>
 
-        <input type="password" name="fname" class="button" id="password" placeholder="Enter Your password" required="">
+        <input type="password" name="pwd" class="button" id="password" placeholder="Enter Your password" required="">
 		<br><br>
 
-		<input type="password" name="fname" class="button" id="password" placeholder="ReEnter Your password" required="">
+		<input type="password" name="pwd1" class="button" id="password" placeholder="ReEnter Your password" required="">
 		<br><br>
 
-		<input type="text" name="fname" class="button" id="address" placeholder="Enter Your Address" required="">
+		<input type="text" name="address" class="button" id="address" placeholder="Enter Your Address" required="">
 		<br><br>
 
-		<input type="email" name="fname" class="button" id="email" placeholder="Enter Your Email Address" required="">
+		<input type="email" name="email" class="button" id="email" placeholder="Enter Your Email Address" required="">
 		<br><br>
 
-		<input type="text" name="fname" class="button" id="tpno" placeholder="Enter Your Contact number" required="">
+		<input type="text" name="tpno" class="button" id="tpno" placeholder="Enter Your Contact number" required="">
 		<br><br>
 
-		<input type="text" name="fname" class="button" id="Area" placeholder="Enter Your Area of Job" required="">
+		<input type="text" name="job" class="button" id="Area" placeholder="Enter Your Area of Job" required="">
 		<br><br>
 
 		<input type="submit" value="Register" id="but1" onclick="detail()">
