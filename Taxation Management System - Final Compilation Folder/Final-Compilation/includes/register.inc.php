@@ -1,6 +1,6 @@
 <?php
 
-	include_once 'Final-Compilation/includes/dbh.inc.php';
+	include_once 'dbh.inc.php';
 
 		$name1=$_POST['name'];
 		$nic=$_POST['nic'];
@@ -11,7 +11,7 @@
 		$area=$_POST['job'];
 	
 		$sql = "INSERT INTO users ('name', 'NIC', 'password', 'address', 'email', 'Telephone', 'Area') 
-		VALUES ($name1, $nic, $pwd, $address1, $email, $tpno, $area)";
+		VALUES ('$name1', '$nic', '$pwd', '$address1', '$email', '$tpno', '$area');";
 
 		mysqli_query($conn, $sql);
 
