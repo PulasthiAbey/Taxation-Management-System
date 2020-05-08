@@ -3,7 +3,9 @@
 <head>
 	<title>Taxation Management System</title>
     <link rel="stylesheet" type="text/css" href="Register.css">
-
+	<?php
+		include_once 'Final-Compilation/includes/dbh.inc.php';
+	?>
  
 
 </head>
@@ -43,8 +45,10 @@
 		</form>
 	</div>
 
+	<?php
+		$sql = 
 
-
+	?>
 
 </body>
 </html>
