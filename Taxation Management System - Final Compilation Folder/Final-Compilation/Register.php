@@ -21,7 +21,7 @@
         <input type="text" name="nic" class="button" id="NIC" placeholder="Enter Your NIC number" required="">
 		<br><br>
 
-        <input type="password" name="pwd" class="button" id="password" placeholder="Enter Your password" required="">
+        <input type="password" name="pwd" class="button" id="pwd" placeholder="Enter Your password" required="">
 		<br><br>
 
 		<input type="password" name="pwd1" class="button" id="password" placeholder="ReEnter Your password" required="">
@@ -48,7 +48,13 @@
 	<?php
 
 		$name=getElementById(name);
-		$sql = "INSERT INTO users (name, nic, password, address, ) VALUES()";
+		$nic=getElementById(NIC);
+		$pwd=getElementById(pwd);
+		$address=getElementById(address);
+		$email=getElementById(email);
+		$tpno=getElementById(tpno);
+		$area=getElementById(Area);
+		$sql = "INSERT INTO users (name, NIC, password, address, email, Telephone, Area) VALUES()";
 	?>
 
 </body>
