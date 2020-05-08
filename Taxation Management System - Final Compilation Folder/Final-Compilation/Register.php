@@ -47,7 +47,6 @@
 
 	<?php
 		$sql = "INSERT INTO users";
-
 	?>
 
 </body>
