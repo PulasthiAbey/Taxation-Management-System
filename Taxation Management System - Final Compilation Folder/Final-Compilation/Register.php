@@ -12,7 +12,7 @@
 <body>
 	<div class="a">
 
-		<form id="registration">
+		<form id="registration" method="POST">
 		<h2>Registration</h2><br>
 
 		<input type="text" name="name" class="button" id="name" placeholder="Enter Your Full Name" required="">
@@ -46,6 +46,8 @@
 	</div>
 
 	<?php
+
+		$name=getElementById(name);
 		$sql = "INSERT INTO users (name, nic, password, address, ) VALUES()";
 	?>
 
