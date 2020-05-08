@@ -3,7 +3,9 @@
 <head>
 	<title>Taxation Management System/Home</title>
 	<link rel="stylesheet" type="text/css" href="Final-Compilation/Home.css">
-	
+	<?php
+		include_once 'Final-Compilation/includes/dbh.inc.php';
+	?>
 
 </head>
 <body>
