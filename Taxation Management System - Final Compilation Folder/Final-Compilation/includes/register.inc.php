@@ -1,5 +1,7 @@
 <?php
 
+	include_once 'Final-Compilation/includes/dbh.inc.php';
+
 		$name1=getElementById(name);
 		$nic=getElementById(NIC);
 		$pwd=getElementById(pwd);
@@ -12,6 +14,8 @@
 		VALUES (name1, nic, pwd, address1, email, tpno, area)";
 
 		mysqli_query($conn, $sql);
+
+		header("Location: ../HomePage.php?Registered Successfully");
 
 
  ?>
