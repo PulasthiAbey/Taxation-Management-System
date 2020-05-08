@@ -15,10 +15,10 @@
 		<form id="registration">
 		<h2>Registration</h2><br>
 
-		<input type="text" name="fname" class="button" id="name" placeholder="Enter Your Full Name" required="">
+		<input type="text" name="name" class="button" id="name" placeholder="Enter Your Full Name" required="">
 		<br><br>
 
-        <input type="text" name="fname" class="button" id="NIC" placeholder="Enter Your NIC number" required="">
+        <input type="text" name="nic" class="button" id="NIC" placeholder="Enter Your NIC number" required="">
 		<br><br>
 
         <input type="password" name="fname" class="button" id="password" placeholder="Enter Your password" required="">
@@ -46,7 +46,7 @@
 	</div>
 
 	<?php
-		$sql = "INSERT INTO users";
+		$sql = "INSERT INTO users VALUES()";
 	?>
 
 </body>
