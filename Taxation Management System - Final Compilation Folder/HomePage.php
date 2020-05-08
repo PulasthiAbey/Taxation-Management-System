@@ -28,8 +28,8 @@
   
 
 	<div class="overlay-content">
-	  <a href="Final-Compilation/Register.html">Register</a>
-	  <a href="Final-Compilation/SignIn.html">Sign In</a>
+	  <a href="Final-Compilation/Register.php">Register</a>
+	  <a href="Final-Compilation/SignIn.php">Sign In</a>
 	  <a href="Final-Compilation/subscription.html">Subscribe</a>
 	  <a href="Final-Compilation/US.html">About Us</a>
 	</div>
