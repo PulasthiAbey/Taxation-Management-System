@@ -22,11 +22,13 @@
 		<input type="password" name="pwd1" class="button" id="password" placeholder="ReEnter Your password" required="">
 		<br><br>
 
+		
 		<input type="text" name="address" class="button" id="address" placeholder="Enter Your Address" required="">
 		<br><br>
 
 		<input type="email" name="email" class="button" id="email" placeholder="Enter Your Email Address" required="">
 		<br><br>
+
 
 		<input type="text" name="tpno" class="button" id="tpno" placeholder="Enter Your Contact number" required="">
 		<br><br>

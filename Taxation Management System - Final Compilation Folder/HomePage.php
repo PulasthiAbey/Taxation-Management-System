@@ -24,6 +24,7 @@
 <div id="myNav" class="overlay">
 
 
+
 	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   
 
@@ -33,7 +34,8 @@
 	  <a href="Final-Compilation/subscription.html">Subscribe</a>
 	  <a href="Final-Compilation/US.html">About Us</a>
 	</div>
-  
+ 
+	
   </div>
   
   <br><br>	

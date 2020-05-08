@@ -12,6 +12,7 @@
     resize: vertical;
   }
   
+
   input[type=submit] {
     background-color: #4CAF50;
     color: white;
@@ -23,6 +24,7 @@
   input[type=submit]:hover {
     background-color: #45a049;
   }
+  
   
   /* Style the container/contact section */
   .container {

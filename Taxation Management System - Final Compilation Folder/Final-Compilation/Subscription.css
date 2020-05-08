@@ -6,6 +6,7 @@ body
 	background:url(tax.png);
 	background-size: cover;
 }
+
 .box
 {
 	position: absolute;
@@ -20,6 +21,7 @@ body
 	border-radius: 10px;
 
 }
+
 	.box h2
 	{
 		margin: 0 0 30px;
