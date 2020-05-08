@@ -46,7 +46,7 @@
 	</div>
 
 	<?php
-		$sql = "INSERT INTO users VALUES()";
+		$sql = "INSERT INTO users (name, nic, password, address, ) VALUES()";
 	?>
 
 </body>
